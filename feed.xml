@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+ <channel>
+  <title>Kuya Koala Lullabies: Tagalog Bedtime Music for Babies</title>
+  <link>https://www.youtube.com/@kuyakoalaandfriends</link>
+  <atom:link href="https://kuyakoalaandfriends.github.io/lullaby-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en</language>
+  <copyright>© 2026 Kuya Koala &amp; Friends</copyright>
+  <description><![CDATA[Gentle 1-hour bedtime lullabies from Kuya Koala & Friends: soft music box, harp and piano with calm rain, plus a few cosy Tagalog words, to help babies and toddlers drift off to sleep. A new lullaby every week. Watch Kuya Koala on YouTube: https://www.youtube.com/@kuyakoalaandfriends]]></description>
+  <itunes:summary><![CDATA[Gentle 1-hour bedtime lullabies from Kuya Koala & Friends: soft music box, harp and piano with calm rain, plus a few cosy Tagalog words, to help babies and toddlers drift off to sleep. A new lullaby every week. Watch Kuya Koala on YouTube: https://www.youtube.com/@kuyakoalaandfriends]]></itunes:summary>
+  <itunes:author>Kuya Koala &amp; Friends</itunes:author>
+  <itunes:owner><itunes:name>Kuya Koala &amp; Friends</itunes:name><itunes:email>kuyakoalaandfriends@gmail.com</itunes:email></itunes:owner>
+  <itunes:image href="https://kuyakoalaandfriends.github.io/lullaby-podcast/cover.jpg"/>
+  <image><url>https://kuyakoalaandfriends.github.io/lullaby-podcast/cover.jpg</url><title>Kuya Koala Lullabies: Tagalog Bedtime Music for Babies</title><link>https://www.youtube.com/@kuyakoalaandfriends</link></image>
+  <itunes:category text="Kids &amp; Family"/>
+  <itunes:category text="Music"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <lastBuildDate>Thu, 19 Nov 2026 23:20:24 +0000</lastBuildDate>
+  <item>
+   <title>Tagalog Lullabies for Babies to Sleep | 1 Hour Calm Music Box &amp; Rain (20 Nov 2026)</title>
+   <description><![CDATA[Gentle 1-hour bedtime lullabies on soft music box, celesta, harp and piano with calm rain, to help babies and toddlers drift off to sleep, with Kuya Koala!
+
+Tonight's bedtime Tagalog words (first 10 minutes):
+• Duyan = Hammock / cradle
+• Tahimik = Quiet
+• Mahal kita = I love you
+
+Tracklist:
+00:00 Hangin sa Gabi
+07:34 Brahms' Lullaby (Hele ni Brahms)
+15:04 Ilaw ng Buwan
+22:39 Kumot at Unan
+30:13 Twinkle Twinkle Little Star (Kislap, Kislap, Munting Bituin)
+37:47 Duyan sa Puno
+45:22 Tahimik na Gabi
+52:56 Antok na si Koala
+
+Made for healthy sleep: a dim, warm night scene with no flashing and no sudden loud sounds, a slow 55–65 BPM pace, and the screen gets darker after 15 minutes.
+
+Music: original Kuya Koala lullabies plus traditional public-domain melodies, arranged and synthesised by Kuya Koala & Friends.
+
+Watch the video version on YouTube: https://youtu.be/rpZwv-HYloc]]></description>
+   <enclosure url="https://kuyakoalaandfriends.github.io/lullaby-podcast/audio/sleep_20261120.mp3" length="28800803" type="audio/mpeg"/>
+   <guid isPermaLink="false">kuyakoala-sleep_20261120</guid>
+   <pubDate>Thu, 19 Nov 2026 22:30:00 +0000</pubDate>
+   <itunes:duration>1:00:00</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:image href="https://kuyakoalaandfriends.github.io/lullaby-podcast/cover.jpg"/>
+  </item>
+ </channel>
+</rss>
